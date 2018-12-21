@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rishabh Mishra",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh09/dashboard-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishabh09/dashboard-ui/issues"
+  },
+  "homepage": "https://github.com/rishabh09/dashboard-ui#readme"
 }
